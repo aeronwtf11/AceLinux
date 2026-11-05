@@ -6,9 +6,7 @@
 
 **A minimal operating system. Your system, your decisions.**
 
-`x86-64` · `C` · `OS Development` · `Terminal First`
-
-**One System. Our Decisions.**
+`x86-64` · `C` ·  `The User comes First`
 
 ---
 
@@ -771,9 +769,9 @@ Until a license is added, no permission to modify or redistribute the source sho
 
 **AceOS**
 
-*Minimal by default. Configured by you.*
+*Minimal by default. Configured by the people.*
 
-**One System. Our Decisions.**
+**One System. YOUR Decisions.**
 
 <sub>We provide the foundation. You decide what runs on it.</sub>
 
